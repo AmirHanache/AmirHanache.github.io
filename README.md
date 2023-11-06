@@ -1,11 +1,12 @@
 # Data Scientist
 
-### Education
+## Education
 Interdisciplinary Data Science B.S., Nevada State University
 
-### Work Experience
-INBRE Summer Undergraduate Research Fellowship (iSURF) & DATA 499 Independent Study
+## Work Experience
+###INBRE Summer Undergraduate Research Fellowship (iSURF) & DATA 499 Independent Study
 Research Assistant, Nevada State University, Henderson, NV, May 2023 - Present
+
 ● Continuing project work as part of DATA 499 Independent Study, focusing on advanced modeling
 techniques, mathematical modeling, and experiment design.
 ● Collaborated with a data science professor to develop LAKE 3.0, a predictive model aimed at forecasting
@@ -15,8 +16,9 @@ visualization using large datasets in CSV format.
 ● Gained hands-on experience with Git Bash, mastering essential commands and utilizing the tool to run the
 LAKE 3.0 model.
 
-Resorts World, Las Vegas, NV
+###Resorts World, Las Vegas, NV
 Fountain Worker, September 2021 - Present
+
 ● Utilized company POS system to process customer orders and payments, maintaining accurate records of
 transactions and financial data.
 ● Manage inventory and ensure proper rotation of food items, utilizing data analysis to optimize ordering
