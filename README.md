@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## Education
-Interdisciplinary Data Science B.S., Nevada State University
+Interdisciplinary Data Science B.S. with a minor in Applied Mathematics, Nevada State University
 
 ## Work Experience
 ### INBRE Summer Undergraduate Research Fellowship (iSURF) & DATA 499 Independent Study
