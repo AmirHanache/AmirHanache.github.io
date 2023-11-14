@@ -8,7 +8,7 @@ Interdisciplinary Data Science B.S. with a minor in Applied Mathematics, Nevada 
 Research Assistant, Nevada State University, Henderson, NV, May 2023 - Present
 
 ● Continuing project work as part of DATA 499 Independent Study, focusing on advanced modeling
-techniques, mathematical modeling, and experiment design./n
+techniques, mathematical modeling, and experiment design.
 ● Collaborated with a data science professor to develop LAKE 3.0, a predictive model aimed at forecasting
 temperature profiles of Lake Mead, Nevada.
 ● Utilized Python programming to perform data cleaning, organization, numerical analysis, and
